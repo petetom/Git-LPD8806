@@ -6,7 +6,7 @@
 /*****************************************************************************/
 
 // Number of RGB LEDs in strand:
-int nLEDs = 32;
+int nLEDs = 64;
 
 // Chose 2 pins for output; can be any valid output pins:
 int dataPin  = 2;
